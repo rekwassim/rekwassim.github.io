@@ -1,0 +1,18 @@
+body {
+  background-color: lightblue;
+font_family: arial;
+font-size:20px;
+}
+
+h1 {
+  color: white;
+}
+ h2
+{ color: #000552;
+text-align: center;
+ }
+footer
+{ text-align: bottom-left
+font-size: 10px;
+font_family: "Comic Sans MS";
+}
